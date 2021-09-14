@@ -9,4 +9,4 @@ SAGA ->
 SEDA -> Staged Event Driven Architecture\
 DRY -> Do not Repeat Yourself\
 KISS -> Keep It Simple Stupid\
-YAGNI -> You Aren't Gonna Need It\
+YAGNI -> You Aren't Gonna Need It
